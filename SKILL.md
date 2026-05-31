@@ -40,7 +40,7 @@ To change behaviour, update this table only — no other section needs editing.
 
 | Flag key | Gates |
 |---|---|
-| `flag_ui_show_context` | Date display |
+| `flag_show_date` | Date display |
 
 
 
