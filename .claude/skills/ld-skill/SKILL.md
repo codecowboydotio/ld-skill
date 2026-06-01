@@ -134,7 +134,7 @@ Print plain text only — no HTML, no React, no artifact, no commentary.
 
 | Flag key | Gates | Enabled behaviour | Disabled behaviour |
 |---|---|---|---|
-| `flag_ui_show_context` | Date display | Print `Date: <date>` line | Omit date line |
+| `flag_show_date` | Date display | Print `Date: <date>` line | Omit date line |
 
 
 
